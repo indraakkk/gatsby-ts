@@ -1,1 +1,0 @@
-module.exports = require("C:\\Users\\user\\devel\\gatsby-ts\\src\\utils\\typography.js")
